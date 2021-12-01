@@ -1,1 +1,7 @@
 //inshallah
+
+int main
+{
+
+    
+}
